@@ -19,5 +19,5 @@ This is a simple, responsive portfolio website built using HTML and basic CSS. T
 
 ## Demo
 
-You can view the portfolio website at [link].
+You can view the portfolio website at [https://swetha7898.github.io/simple-portfolio-website/].
 
